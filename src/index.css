@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.logo{
+  height: 83px;
+  width: auto;
+}
+.cart{
+  height: 40px;
+  margin: 14px;
+}
+.Nav{
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 1px 1px 1px rgb(228, 226, 226);
+}
+.itemCard{
+  height: 366px;
+  border: 1px;
+  width: 200px;
+  box-shadow: 10px 10px 11px -3px #dce3e5;
+}
+.category{
+  display: flex;
+  gap: 56px;
+  overflow: auto;
+}

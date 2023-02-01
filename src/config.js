@@ -1,0 +1,1 @@
+export const FETCH_CATEGORY_URL="https://www.bigbasket.com/custompage/sysgenpd/?type=pc&slug=bakery-cakes-dairy&sid=cSlwro-ibWQBoWMBqHNrdV9saXN0kKJuZsOiY2OjMzY3qWJhdGNoX2lkeACiYW_ConVywqJhcMOibHTNAS2jZHNqzSa0oW-qcG9wdWxhcml0eaVzcl9pZAGiZHPNBrijbXJpAQ=="
